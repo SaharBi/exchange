@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.box{
+  background-color: gray;
+}
+
+.btns{
+  width: 100px;
+  height: 100px;
+}
